@@ -1,0 +1,4 @@
+class Config:
+    auth_string = '<base64 encoded login:password>'
+    token = '<your api token>'
+    site_id = '<site id to post to>'
